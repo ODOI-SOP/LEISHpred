@@ -1,3 +1,3 @@
-Hello researchers!
-Welcome to Leishpred
-Predict the pIC50s of small molecules
+import streamlit as st
+
+st.write('Hello Researchers')
